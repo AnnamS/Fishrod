@@ -1,0 +1,23 @@
+Hello Gavin,
+
+I tried very hard to get the hang of Symfony 2 but unfortunately I didn't have enough time to grasp it properly.
+However, I have managed to successfully install Symfony 2 on my MacBook, but this took a majority of my time,
+as I had to go through an array of procedures and installations to actually get up and running.
+
+I have also managed to create a new project called weddingplan. Included in this repository is the configurations, 
+parameters, bundle and controllers. I managed to briefly understand how the MVC structure works and found out 
+information about it such as how Models aren't always required. However, I didn't manage to implement it.
+
+On my localhost, I set up the database using the ORM. There is a simple login page in the repository that is meant to
+validate the admin credentials. However, this too gave me problems as it wasn't using MVC and couldn't connect to the
+database.
+
+Thank you for your time and allowing me to have this opportunity to apply for your company. It has been a great learning
+experience as I got to know about Symfony 2, which is completely new to me. I will take this on and continue to learn
+exactly how this framework should be used.
+
+I apologise for not being able to fully complete the task I was given.
+
+Regards,
+
+Annam Siddique
