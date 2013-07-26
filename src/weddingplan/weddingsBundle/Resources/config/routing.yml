@@ -1,0 +1,3 @@
+wedding_planweddings_homepage:
+    pattern:  /welcome
+    defaults: { _controller: weddingplan.welcome.controller:indexAction }

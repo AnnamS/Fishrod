@@ -1,0 +1,16 @@
+
+parameters:
+#    wedding_planweddings.example.class: weddingplan\weddingsBundle\Example
+
+services:
+#    wedding_planweddings.example:
+#        class: %wedding_planweddings.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
+
+parameters:
+    # ...
+    weddingplan.controller.welcome.class: weddingplan\weddingsBundle\Controller\welcomeController
+
+services:
+    weddingplan.welcome.controller:
+        class:     "%weddingplan.controller.welcome.class%"
